@@ -1,1 +1,1 @@
-# PCA_from_scratch_on_mnist
+# PCA_T-SNE_on_mnist
